@@ -1,3 +1,5 @@
+### This project has been abandoned in favor of [Tribler/kotlin-ipv8](https://github.com/Tribler/kotlin-ipv8)
+
 TrustChain Android [![Build Status](https://travis-ci.org/klikooo/CS4160-trustchain-android.svg?branch=master)](https://travis-ci.org/klikooo/CS4160-trustchain-android) [![codecov](https://codecov.io/gh/klikooo/CS4160-trustchain-android/branch/master/graph/badge.svg)](https://codecov.io/gh/klikooo/CS4160-trustchain-android)
 ==================
 
